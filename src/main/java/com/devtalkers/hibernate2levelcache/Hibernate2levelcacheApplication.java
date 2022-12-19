@@ -1,12 +1,13 @@
-package com.onlinetutorialspoint;
+package com.devtalkers.hibernate2levelcache;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootApplication {
+public class Hibernate2levelcacheApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootApplication.class, args);
+		SpringApplication.run(Hibernate2levelcacheApplication.class, args);
 	}
+
 }
